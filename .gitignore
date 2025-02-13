@@ -1,0 +1,14 @@
+venv
+__pycache__
+.ipynb_checkpoints
+.DS_Store
+*.csv
+*.xlsx
+*.xls
+*.pkl
+*.pickle
+*.npy
+*.npy
+data
+.vscode
+mvenv
