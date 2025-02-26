@@ -9,7 +9,6 @@ __pycache__
 *.pickle
 *.npy
 *.npy
-data
 .vscode
 mvenv
 notebook copy 2.ipynb
